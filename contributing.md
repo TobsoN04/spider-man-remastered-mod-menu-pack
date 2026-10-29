@@ -179,4 +179,4 @@ tool completely — there is no uninstaller and no registry entry.
 
 ---
 
-*spider-man-remastered-mod-menu-pack · Updated 2026-10-28 · Shared under the MIT License*
+*spider-man-remastered-mod-menu-pack · Updated 2026-10-29 · Shared under the MIT License*
